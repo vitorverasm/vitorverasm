@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-veras/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vitorverasm@gmail.com)
 
-## About
+## About Me
 - 🇧🇷 From Brazil
 - 🤖 Computer science student
 - ❤️ Working with: **Mobile development with React Native**
