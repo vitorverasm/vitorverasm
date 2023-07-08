@@ -6,7 +6,7 @@
 
 ## About Me
 - 🇧🇷 From Brazil
-- 🤖 Computer science student
+- 🤖 Computer science
 - ❤️ Working with: **Mobile development with React Native**
 - Currently learning about **software architecture** and **design patterns**
 
